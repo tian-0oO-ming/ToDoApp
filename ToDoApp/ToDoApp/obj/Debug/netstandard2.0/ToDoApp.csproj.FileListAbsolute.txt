@@ -1,0 +1,7 @@
+F:\生活\爱好\C#\ToDoAPP\ToDoApp\ToDoApp\bin\Debug\netstandard2.0\ToDoApp.deps.json
+F:\生活\爱好\C#\ToDoAPP\ToDoApp\ToDoApp\bin\Debug\netstandard2.0\ToDoApp.dll
+F:\生活\爱好\C#\ToDoAPP\ToDoApp\ToDoApp\obj\Debug\netstandard2.0\ToDoApp.csprojAssemblyReference.cache
+F:\生活\爱好\C#\ToDoAPP\ToDoApp\ToDoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\生活\爱好\C#\ToDoAPP\ToDoApp\ToDoApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\生活\爱好\C#\ToDoAPP\ToDoApp\ToDoApp\obj\Debug\netstandard2.0\ToDoApp.AssemblyInfoInputs.cache
+F:\生活\爱好\C#\ToDoAPP\ToDoApp\ToDoApp\obj\Debug\netstandard2.0\ToDoApp.AssemblyInfo.cs
